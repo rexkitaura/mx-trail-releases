@@ -1,0 +1,22 @@
+{
+  "name": "MX TRAIL",
+  "channel": "public-trial",
+  "prerelease": true,
+  "versionName": "0.2.0-qa.67",
+  "versionCode": 267,
+  "packageName": "jp.rexworks.mxtrail.unity",
+  "filename": "MXTrail-0.2.0-qa.67.apk",
+  "bytes": 157411364,
+  "sha256": "f3da9407a248763888755003205aa84b72605bff38718fcbd25e46d8a56aedab",
+  "minimumAndroidVersion": "8.0",
+  "minimumSdk": 26,
+  "abi": [
+    "arm64-v8a"
+  ],
+  "debuggable": false,
+  "signatureVerified": true,
+  "signerCertificateSha256": "33eb36bc48389fb90408d4c85eec402f0c5dede6326570aef9da134ee446f7ed",
+  "downloadUrl": "https://github.com/rexkitaura/mx-trail-releases/releases/download/v0.2.0-qa.67/MXTrail-0.2.0-qa.67.apk",
+  "testedDevice": "Lenovo Legion Tab 8.8 Gen 3",
+  "notes": "Development trial. Sustained 60fps across all courses is not achieved. Other devices are unverified."
+}

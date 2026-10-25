@@ -1,0 +1,72 @@
+MX TRAIL environment source credits
+
+Kloofendal 38d Partly Cloudy Puresky — Greg Zaal, Jarod Guest / Poly Haven
+https://polyhaven.com/a/kloofendal_38d_partly_cloudy_puresky
+CC0 sky photography converted to a mobile cubemap and matching offline reflection.
+
+Dirt — Charlotte Baglioni / Poly Haven
+https://polyhaven.com/a/dirt
+
+Withered Grass — Charlotte Baglioni / Poly Haven
+https://polyhaven.com/a/withered_grass
+
+Tree Small 02 — Rico Cilliers / Poly Haven
+https://polyhaven.com/a/tree_small_02
+Mobile derivative: fitted leaf cards, simplified branches and trunk, three LODs,
+texture channel packing and Unity materials prepared by REX WORKS.
+
+Bark Willow — Dario Barresi (processing), Dimitrios Savva (photography)
+https://polyhaven.com/a/bark_willow
+Used in the authored tree prototype.
+
+Source assets are distributed under CC0 1.0 Universal.
+https://polyhaven.com/license
+https://creativecommons.org/publicdomain/zero/1.0/
+
+These source credits do not imply endorsement of MX TRAIL.
+
+Forest Leaves 02 — Rob Tuytel / Poly Haven
+https://polyhaven.com/a/forest_leaves_02
+Diffuse, normal and packed surface maps adapted for the forest floor.
+
+Muddy Tracks — Amal Kumar / Poly Haven
+https://polyhaven.com/a/muddy_tracks
+
+Pine Tree 01 — Rico Cilliers, Rob Tuytel / Poly Haven
+https://polyhaven.com/a/pine_tree_01
+Texture maps used on an independently authored lightweight conifer mesh.
+
+Rock Face — Dario Barresi, Greg Zaal / Poly Haven
+https://polyhaven.com/a/rock_face
+
+Gravel Floor 04 — Charlotte Baglioni / Poly Haven
+https://polyhaven.com/a/gravel_floor_04
+
+Fern 02 — Rob Tuytel (scanning), Rico Cilliers (modeling) / Poly Haven
+https://polyhaven.com/a/fern_02
+
+Boulder 01 — Rico Cilliers / Poly Haven
+https://polyhaven.com/a/boulder_01
+
+Rock Face 02 — Dario Barresi, Rico Cilliers / Poly Haven
+https://polyhaven.com/a/rock_face_02
+
+Shrub 02 — Rico Cilliers / Poly Haven
+https://polyhaven.com/a/shrub_02
+Four authored low LOD variants, converted to instanced mobile groundcover.
+Grass Medium 01 — Rico Cilliers / Rob Tuytel — CC0
+https://polyhaven.com/a/grass_medium_01
+Close roadside tuft extracted from the authored low LOD; source and checksums
+are preserved in art-source/environment/polyhaven/grass_medium_01.
+
+Pine Sapling Medium — Rico Cilliers, Rob Tuytel / Poly Haven
+https://polyhaven.com/a/pine_sapling_medium
+Three original scan shapes adapted into mobile mesh LODs and relit impostors.
+
+Forrest Ground 01 — Rob Tuytel / Poly Haven
+https://polyhaven.com/a/forrest_ground_01
+Diffuse, normal and ARM maps adapted into moss and woodland ground cover.
+
+Tree Stump 01 — Rob Tuytel / Poly Haven
+https://polyhaven.com/a/tree_stump_01
+Three mobile mesh LODs and a low-detail collision mesh.

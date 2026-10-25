@@ -1,0 +1,10 @@
+Motorcycle dirt bike motocross onboard idle start accelerate fast.wav
+Author: kyles / Freesound
+https://freesound.org/people/kyles/sounds/450020/
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+
+Derived from the author's publicly served HQ MP3 preview. Phase-aligned recorded
+combustion grains, fixed-RPM overlap-add resynthesis, DC removal and level
+normalization by REX WORKS. Source, processing script and hashes are
+preserved with the editable project. This is a generic dirt-bike recording,
+not a recording attributed to Triumph or the TF250-E. No endorsement implied.
