@@ -1,13 +1,13 @@
 {
   "name": "MX TRAIL",
-  "channel": "public-trial",
+  "channel": "visual-development-preview",
   "prerelease": true,
-  "versionName": "0.2.0-qa.67",
-  "versionCode": 267,
+  "versionName": "0.2.0-trial.96",
+  "versionCode": 296,
   "packageName": "jp.rexworks.mxtrail.unity",
-  "filename": "MXTrail-0.2.0-qa.67.apk",
-  "bytes": 157411364,
-  "sha256": "f3da9407a248763888755003205aa84b72605bff38718fcbd25e46d8a56aedab",
+  "filename": "MXTrail-0.2.0-trial.96.apk",
+  "bytes": 226743584,
+  "sha256": "92c049b2e52375fcb154c4679d4f6a972c22e4476f54e5663b678c5b5d21c3d8",
   "minimumAndroidVersion": "8.0",
   "minimumSdk": 26,
   "abi": [
@@ -16,7 +16,14 @@
   "debuggable": false,
   "signatureVerified": true,
   "signerCertificateSha256": "33eb36bc48389fb90408d4c85eec402f0c5dede6326570aef9da134ee446f7ed",
-  "downloadUrl": "https://github.com/rexkitaura/mx-trail-releases/releases/download/v0.2.0-qa.67/MXTrail-0.2.0-qa.67.apk",
+  "downloadUrl": "https://github.com/rexkitaura/mx-trail-releases/releases/download/v0.2.0-trial.96/MXTrail-0.2.0-trial.96.apk",
   "testedDevice": "Lenovo Legion Tab 8.8 Gen 3",
-  "notes": "Development trial. Sustained 60fps across all courses is not achieved. Other devices are unverified."
+  "visualFocus": "OFV start to first hairpin, approximately 100 m",
+  "performance": {
+    "averageFps": 16.19,
+    "durationSeconds": 11.86,
+    "recording": false,
+    "scope": "Short first-hairpin test, not sustained performance or a guarantee on other devices."
+  },
+  "notes": "Unoptimized visual development preview. Sustained 60fps and whole-game art completion are not achieved."
 }
